@@ -1,0 +1,162 @@
+[
+	"nhtsa_campaign_number" => "16V340000",
+	"recall_id" => "G0P,G1P",
+	"component"=>"TAKATA FRONT PASSENGER AIRBAG"
+],
+
+[
+	"nhtsa_campaign_number" => "16V487000",
+	"recall_id" => "GOU",
+	"component"=>"CURTAIN AIRBAG RECALL"
+],
+
+[
+	"nhtsa_campaign_number" => "16V065000",
+	"recall_id" => "GOC",
+	"component"=>"CSA AIRBAG CONTROL"
+],
+
+[
+	"nhtsa_campaign_number" => "15V286000",
+	"recall_id" => "E04",
+	"component"=>"FRONT PASSENGER AIRBAG INFLATOR MODULE"
+],
+
+[
+	"nhtsa_campaign_number" => "",
+	"recall_id" => "E03",
+	"component"=>"TORQUE CONVERTER SHUDDER RECALL"
+],
+
+[
+	"nhtsa_campaign_number" => "14V604000",
+	"recall_id" => "E02",
+	"component"=>"REAR LEAF SPRING"
+],
+
+[
+	"nhtsa_campaign_number" => "09V388000",
+	"recall_id" => "90L",
+	"component"=>"FLOOR MAT INTERFERENCE W ACCELERATOR PEDAL"
+],
+
+[
+	"nhtsa_campaign_number" => "11V113000",
+	"recall_id" => "90L",
+	"component"=>"FLOOR MAT INTERFERENCE W ACCELERATOR PEDAL"
+],
+
+[
+	"nhtsa_campaign_number" => "16V096000",
+	"recall_id" => "GOF,G0F",
+	"component"=>"REAR OUTBOARD SEATBELTS, SAFETY RECALL, EV REAR OUTBOARD SEATBELTS"
+],
+
+[
+	"nhtsa_campaign_number" => "15V577000",
+	"recall_id" => "FOS",
+	"component"=>"WIPER MOTOR LINK CORROSION"
+],
+
+[
+	"nhtsa_campaign_number" => "15V689000",
+	"recall_id" => "SSC COM",
+	"component"=>"POWER WINDOW SWITCH"
+],
+
+[
+	"nhtsa_campaign_number" => "12V491000",
+	"recall_id" => "COM",
+	"component"=>"SWITCHES"
+],
+
+[
+	"nhtsa_campaign_number" => "15V144000",
+	"recall_id" => "F0J",
+	"component"=>"ELECTRIC POWER STEERING (EPS) ECU"
+],
+
+[
+	"nhtsa_campaign_number" => "13V337000",
+	"recall_id" => "D0L",
+	"component"=>""
+],
+
+[
+	"nhtsa_campaign_number" => "10V017000",
+	"recall_id" => "AOA",
+	"component"=>""
+],
+
+[
+	"nhtsa_campaign_number" => "09V338000",
+	"recall_id" => "90H",
+	"component"=>"ENGINES BRAKE SYSTEM VACUUM PORT"
+],
+
+[
+	"nhtsa_campaign_number" => "14V168000",
+	"recall_id" => "E0M",
+	"component"=>"SPIRAL CABLE"
+],
+
+[
+	"nhtsa_campaign_number" => "16V596000",
+	"recall_id" => "G0V",
+	"component"=>"REAR LOWER SUSPENSION ARM"
+],
+
+[
+	"nhtsa_campaign_number" => "17V051000",
+	"recall_id" => "H0C",
+	"component"=>"REAR BUMPER REINFORCEMENT BRACKETS"
+],
+
+[
+	"nhtsa_campaign_number" => "16V858000",
+	"recall_id" => "G14,G04",
+	"component"=>"POWER SLIDING DOOR, VEHICLES POWER SLIDING DOOR"
+],
+
+[
+	"nhtsa_campaign_number" => "14V475000",
+	"recall_id" => "E0X",
+	"component"=>"TIRE LOADING INFO LABEL"
+],
+
+[
+	"nhtsa_campaign_number" => "17V006000",
+	"recall_id" => "G1P",
+	"component"=>"TAKATA FRONT PASSENGER AIRBAG"
+],
+
+[
+	"nhtsa_campaign_number" => "16V215000",
+	"recall_id" => "G0J",
+	"component"=>"OCS SENSOR"
+],
+
+[
+	"nhtsa_campaign_number" => "13V163000",
+	"recall_id" => "D0G",
+	"component"=>"AUXILLARY LIGHT KIT ACCESSORY"
+],
+
+[
+	"nhtsa_campaign_number" => "17V356000",
+	"recall_id" => "H1H",
+	"component"=>"CRANKSHAFT POSITION SENSOR"
+],
+
+[
+	"nhtsa_campaign_number" => "17V285000",
+	"recall_id" => "H0G",
+	"component"=>"REAR DIFFERENTIAL LEAK"
+],
+
+[
+	"nhtsa_campaign_number" => "14V148000",
+	"recall_id" => "E0H",
+	"component"=>"HIGHLANDER VEHICLES 2ND ROW LEFT HAND SEAT INBOARD"
+],
+
